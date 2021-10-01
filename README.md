@@ -1,5 +1,5 @@
 ### Hi there 👋
-### 🔭 I’m currently working on 
+<!-- ### 🔭 I’m currently working on  -->
 ### 📫 How to reach me: www.linkedin.com/in/ikeanyi-chukwudalu
 <!--
 **Dalu26/Dalu26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
