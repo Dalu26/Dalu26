@@ -1,8 +1,8 @@
 ### Hi there 👋
-### Welcome to my repository
+😄 Welcome to my repository
 <!-- ### 🔭 I’m currently working on  -->
-###🌱 I’m currently learning react-native animations
-###👯 I’m looking to collaborate on awesome react-native projects, plug me in
+🌱 I’m currently learning react-native animations
+### 👯 I’m looking to collaborate on awesome react-native projects, plug me in
 ### 📫 How to reach me: www.linkedin.com/in/ikeanyi-chukwudalu
 <!--
 **Dalu26/Dalu26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
