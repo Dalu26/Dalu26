@@ -20,7 +20,7 @@
 ### GitHub Stats
 
 <div>
-<img align="center" alt="Ikeanyi Chukwudalu's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Dalu26&show_icons=true&hide_border=true&include_all_commits=true&theme=gotham" />
+  <img align="center" alt="Ikeanyi Chukwudalu's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Dalu26&show_icons=true&hide_border=true&include_all_commits=true&theme=gotham" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dalu26&layout=compact&theme=gotham" />
 </div>
