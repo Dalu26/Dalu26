@@ -10,6 +10,20 @@
 <code><img  alt="React" width="26px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/react_icon_130845.png" /></code>
 <code><img  alt="React Native" width="26px" src="https://d33wubrfki0l68.cloudfront.net/554c3b0e09cf167f0281fda839a5433f2040b349/ecfc9/img/header_logo.svg" /></code>
 <code><img  alt="Visual Studio Code" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" /></code>
+
+<details>
+  <summary>:zap: GitHub Metrics</summary>
+  
+![Metrics](https://metrics.lecoq.io/Dalu26?template=classic&config.timezone=Africa%2FLagos)
+</details>
+
+### GitHub Stats
+
+<div>
+<img align="center" alt="Ikeanyi Chukwudalu's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Dalu26&show_icons=true&hide_border=true&include_all_commits=true&theme=gotham" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dalu26&layout=compact&theme=gotham" />
+</div>
 <!--
 **Dalu26/Dalu26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
