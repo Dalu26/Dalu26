@@ -1,8 +1,9 @@
 ### Hi there 👋
-### 😄 Welcome to my repository
-<!-- ### 🌱 I’m currently learning react-native animations -->
-### 👯 I’m looking to collaborate on mind-blowing react-native projects, plug me in
-### 📫 How to reach me: www.linkedin.com/in/ikeanyi-chukwudalu
+- Welcome to my repository
+- 🌱 I’m currently learning react-native animations
+- 👯 I’m looking to collaborate on amazing react-native projects, plug me in
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/ikeanyi-chukwudalu)
+- ⚡ I enjoy [music](https://music.apple.com/us/playlist/pl.u-leyl096ujV14jNl) , coding, gaming, and photograghy.
 
 ### Languages and Tools
 
@@ -20,7 +21,7 @@
 ### GitHub Stats
 
 <div>
-  <img align="center" alt="Ikeanyi Chukwudalu's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Dalu26&show_icons=true&hide_border=true&include_all_commits=true&theme=gotham" />
+<img align="center" alt="Ikeanyi Chukwudalu's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Dalu26&show_icons=true&hide_border=true&include_all_commits=true&theme=gotham" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dalu26&layout=compact&theme=gotham" />
 </div>
