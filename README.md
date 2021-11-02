@@ -1,5 +1,4 @@
 ### Hi there 👋
-- Welcome to my repository
 - 🌱 I’m currently learning react-native animations
 - 👯 I’m looking to collaborate on amazing react-native projects, plug me in
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/ikeanyi-chukwudalu)
