@@ -1,6 +1,6 @@
 ### Hi there 👋
 - Welcome,
-- 🌱 I’m currently learning react-native animations
+- 🌱 I’m currently learning animations in react native
 - 👯 I’m looking to collaborate on amazing react-native projects, plug me in
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/ikeanyi-chukwudalu)
 - ⚡ I enjoy [music](https://music.apple.com/us/playlist/pl.u-leyl096ujV14jNl) , coding, gaming, and photograghy.
