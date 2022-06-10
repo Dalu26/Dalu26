@@ -46,7 +46,7 @@
 <div>
 <img align="center" alt="Ikeanyi Chukwudalu's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Dalu26&show_icons=true&hide_border=true&include_all_commits=true&theme=gotham" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dalu26&layout=compact&theme=prussian&count_private=true&show_icons=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dalu26&layout=compact&theme=gotham&count_private=true&show_icons=true" />
 </div>
 <!--
 **Dalu26/Dalu26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
