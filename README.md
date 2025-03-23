@@ -23,7 +23,7 @@
 </details>
 <details>
   <summary>Interests</summary>
-  - [music](https://music.apple.com/ng/playlist/replay-2021/pl.rp-Woonse1a2eX5)
+  - [music](https://music.apple.com/ng/playlist/with-love-dalu/pl.u-AkAm89Gf2J0r29Y)
   - Coding
   - Photography
  </details>
